@@ -1,0 +1,8 @@
+sentence-transformers
+faiss-cpu
+transformers
+datasets
+requests
+beautifulsoup4
+nltk
+tqdm
